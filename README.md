@@ -8,7 +8,7 @@
 ## Install
 
 ```bash
-bun install
+bun add bun-enet
 ```
 
 ## Usage
