@@ -1,7 +1,7 @@
 {
   "name": "bun-enet",
   "description": "Bun wrapper around the ENet library",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Fynn Budde",
   "repository": "https://github.com/Foib/bun-enet",
   "keywords": ["bun", "enet", "networking", "udp", "reliable-udp"],
