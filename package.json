@@ -1,5 +1,6 @@
 {
   "name": "bun-enet",
+  "description": "Bun wrapper around the ENet library",
   "version": "0.1.0",
   "license": "MIT",
   "module": "index.ts",
