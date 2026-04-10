@@ -1,0 +1,9 @@
+{
+  "name": "bun-enet-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "server": "bun run ./server.ts",
+    "client": "bun run ./client.ts"
+  }
+}

@@ -1,0 +1,12 @@
+node_modules/
+native/
+scripts/
+test/
+enet-1.3.18/
+dist/
+bun.lock
+tsconfig.json
+tsconfig.build.json
+index.ts
+.gitignore
+.npmignore
