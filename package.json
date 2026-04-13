@@ -16,8 +16,7 @@
     "test": "bun test"
   },
   "devDependencies": {
-    "@types/bun": "latest",
-    "@types/node": "latest"
+    "@types/bun": "latest"
   },
   "peerDependencies": {
     "typescript": "^5"
