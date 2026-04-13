@@ -2,6 +2,8 @@
 
 `bun-enet` is a Bun wrapper around the ENet C library
 
+![NPM Version](https://img.shields.io/npm/v/bun-enet)
+
 > [!NOTE]  
 > The library is currently targeted at Windows only. Support for other platforms will be added in the future.
 
